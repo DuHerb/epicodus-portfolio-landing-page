@@ -14,6 +14,10 @@ This is the landing page for a professional portfolio.  The page contains person
 1. clone repo into a local directory
 2. open index.html in your favorite browser.
 
+## View Project on GH-Pages
+
+https://DuHerb.github.io/epicodus-portfolio-landing-page
+
 ## Known Bugs
 
 Please contact author to report bugs or suggest UI/UX improvements.  Thanks!
