@@ -59,7 +59,12 @@ li {
 }
 
 .panel-info {
-  padding-left: 10px;
+  padding: 10px;
+
+}
+
+.panel-info p {
+  padding-right: 5px;
 }
 
 .panel h3 {
@@ -68,6 +73,8 @@ li {
 
 .panel-image {
   padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 .panel-image img{
