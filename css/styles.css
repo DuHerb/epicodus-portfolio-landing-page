@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  width: 90%;
+  width: 1000px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -19,7 +19,7 @@ header h1 {
 header nav {
   display: flex;
   flex-direction: row;
-  padding-right: 2em;
+  padding-right: 35%;
   align-items: center;
 }
 
@@ -96,12 +96,8 @@ footer {
   align-items: center;
 }
 
-footer p {
-  margin-left: 2em;
-}
-
 footer ul {
-  margin-right: 2em;
+  margin-right: 35%;
 }
 
 footer li {
