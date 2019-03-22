@@ -14,7 +14,7 @@ header nav {
   display: flex;
   flex-direction: row;
   padding-right: 2em;
-  align-items: end;
+  align-items: center;
 }
 
 header nav li {
