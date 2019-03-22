@@ -71,3 +71,22 @@ li {
   width: 200px;
   height: auto;
 }
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer p {
+  margin-left: 2em;
+}
+
+footer ul {
+  margin-right: 2em;
+}
+
+footer li {
+  padding: 0 1em;
+}
