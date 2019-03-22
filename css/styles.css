@@ -1,3 +1,15 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
 .panel-image img{
   width: 300px;
   height: auto;
