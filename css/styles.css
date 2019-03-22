@@ -1,7 +1,28 @@
+
+
 header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+header h1 {
+  padding-left:2em;
+}
+
+header nav {
+  display: flex;
+  flex-direction: row;
+  padding-right: 2em;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  list-style: none;
 }
 
 
