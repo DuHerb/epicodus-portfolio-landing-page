@@ -41,13 +41,29 @@ li {
   list-style: none;
 }
 
+.panel {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  border: 2px solid black;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
 
+.panel-info {
+  padding-left: 10px;
+}
 
+.panel h3 {
+  margin: 0;
+}
 
-
-
+.panel-image {
+  padding: 10px;
+}
 
 .panel-image img{
-  width: 300px;
+  width: 200px;
   height: auto;
 }
