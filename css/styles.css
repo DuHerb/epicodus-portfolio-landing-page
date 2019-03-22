@@ -73,13 +73,14 @@ li {
 
 .panel-image {
   padding: 10px;
-  border: 1px solid black;
-  border-radius: 10px;
+
 }
 
 .panel-image img{
   width: 200px;
   height: auto;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 .bio-pic {
