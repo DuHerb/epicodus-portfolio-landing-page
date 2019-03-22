@@ -14,6 +14,16 @@ header nav {
   display: flex;
   flex-direction: row;
   padding-right: 2em;
+  align-items: end;
+}
+
+header nav li {
+  padding: 0 2em;
+  font-size: 1.2em;
+}
+
+header nav li a {
+  text-decoration: none;
 }
 
 ul {
